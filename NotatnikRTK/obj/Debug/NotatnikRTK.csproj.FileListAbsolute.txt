@@ -1,0 +1,13 @@
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\App.g.i.cs
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\MainPage.g.i.cs
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\NotatnikRTK.g.resources
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\Bin\Debug\ApplicationIcon.png
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\Bin\Debug\Background.png
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\Bin\Debug\NotatnikRTK.dll
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\Bin\Debug\NotatnikRTK.pdb
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\Bin\Debug\AppManifest.xaml
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\Bin\Debug\NotatnikRTK.xap
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\NotatnikRTK.dll
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\NotatnikRTK.pdb
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\XapCacheFile.xml
+c:\users\115ncirutkowskis\documents\visual studio 2010\Projects\NotatnikRTK\NotatnikRTK\obj\Debug\Start.g.i.cs
